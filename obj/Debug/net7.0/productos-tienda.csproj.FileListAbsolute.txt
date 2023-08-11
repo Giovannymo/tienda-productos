@@ -1,0 +1,17 @@
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.csproj.AssemblyReference.cache
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.AssemblyInfoInputs.cache
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.AssemblyInfo.cs
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.csproj.CoreCompileInputs.cache
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/productos-tienda
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/productos-tienda.deps.json
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/productos-tienda.runtimeconfig.json
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/productos-tienda.dll
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/productos-tienda.pdb
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.csproj.CopyComplete
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.dll
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/refint/productos-tienda.dll
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.pdb
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/productos-tienda.genruntimeconfig.cache
+/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/obj/Debug/net7.0/ref/productos-tienda.dll

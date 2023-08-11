@@ -1,0 +1,24 @@
+{
+  "Products": [
+    {
+      "CodProduct": "123",
+      "Name": "asds",
+      "Stock": 12,
+      "StockMin": 321,
+      "StockMax": 123,
+      "PriceSale": 123.0,
+      "PriceBuy": 123.0,
+      "CategoryID": 1
+    }
+  ],
+  "Categories": [
+    {
+      "CategoryID": 123,
+      "Description": "xcasd"
+    },
+    {
+      "CategoryID": 123,
+      "Description": "yjjhhjgghjghj"
+    }
+  ]
+}

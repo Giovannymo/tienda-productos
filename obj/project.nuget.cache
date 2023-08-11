@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NH7MatmKchPuDv3/w8/d/QU2kZyWb/29rVGZ6IoJohKQNwnosn3i3DMyjILMS0MYea5Y5sYs61qHNHP/xj1zRQ==",
+  "success": true,
+  "projectFilePath": "/home/apolT01-063/Documents/MILTHON MORENO/Persistencia_csharp/productos-tienda.csproj",
+  "expectedPackageFiles": [
+    "/home/apolT01-063/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
